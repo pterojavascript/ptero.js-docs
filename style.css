@@ -5,3 +5,12 @@ body {
     background-color: whitesmoke;
     font-family: 'Roboto', Arial, sans-serif;
 }
+
+img {
+    height: 100px;
+    width: auto;
+}
+
+span {
+    color: darkred;
+}
